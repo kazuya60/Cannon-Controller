@@ -6,7 +6,7 @@ public class Explosion : MonoBehaviour
     // This script applies a physics explosion force to all
     // nearby rigidbodies within a specified radius.
     public float radius = 4;
-    public float force = 8;
+    public float force = 8.1f;
     
 
     void Start()
